@@ -1,0 +1,24 @@
+
+# Java compiled files
+*.class
+*.jar
+*.log
+
+# Build directories
+target/
+build/
+out/
+
+# IDE configuration
+.idea/
+.vscode/
+.settings/
+.project
+.classpath
+
+# Operating system files
+.DS_Store
+
+# Environment variables and secrets
+.env
+*.env
